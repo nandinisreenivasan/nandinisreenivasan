@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/nandinisreenivasan/nandinisreenivasan/master/assets/mkdir.png" />  
   <h2 align="center">Hi there 👋, I'm Nandinisree V S!</h2>
 </p>
 
